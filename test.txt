@@ -2,3 +2,5 @@ init
 add1
 add2
 add3
+fix1
+fix2
